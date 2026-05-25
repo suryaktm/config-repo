@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: order-service
+
+custom:
+  message: Hello from centralized config server
